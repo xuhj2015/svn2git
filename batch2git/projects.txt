@@ -1,0 +1,5 @@
+[git]
+http://172.16.1.190/parse/JXZX
+[svn]
+svn://xxxxx1
+svn://xxxxx2
